@@ -1,4 +1,4 @@
-# Inflation_14.02.21
+# Inflation Anchoring in India
 Does Inflation Targeting Anchor Inflation Expectations? Evidence from India
 
 Swati Asnani, Emory University 
